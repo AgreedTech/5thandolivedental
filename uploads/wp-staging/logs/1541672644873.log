@@ -1,0 +1,934 @@
+[INFO]-[2018/11/08 10:24:05] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/11/08 10:24:05] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/11/08 10:24:06] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/11/08 10:24:06] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_grp_google_place
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_grp_google_place
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_grp_google_review
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_grp_google_review
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_layerslider
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_layerslider
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_layerslider_revisions
+[INFO]-[2018/11/08 10:24:06] DB Copy: Creating table wpstg0_layerslider_revisions
+[INFO]-[2018/11/08 10:24:07] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/11/08 10:24:07] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/11/08 10:24:07] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/11/08 10:24:07] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:07] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/11/08 10:24:07] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:07] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/11/08 10:24:07] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:07] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/11/08 10:24:07] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:08] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/11/08 10:24:08] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:08] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/11/08 10:24:08] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:08] DB Copy: Creating table wpstg0_revslider_css
+[INFO]-[2018/11/08 10:24:08] DB Copy: wp_revslider_css as wpstg0_revslider_css from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:08] DB Copy: Creating table wpstg0_revslider_css
+[INFO]-[2018/11/08 10:24:08] DB Copy: wp_revslider_css as wpstg0_revslider_css from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_layer_animations
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_layer_animations
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_navigations
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_navigations
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_sliders
+[INFO]-[2018/11/08 10:24:09] DB Copy: wp_revslider_sliders as wpstg0_revslider_sliders from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_sliders
+[INFO]-[2018/11/08 10:24:09] DB Copy: wp_revslider_sliders as wpstg0_revslider_sliders from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_slides
+[INFO]-[2018/11/08 10:24:09] DB Copy: wp_revslider_slides as wpstg0_revslider_slides from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_slides
+[INFO]-[2018/11/08 10:24:09] DB Copy: wp_revslider_slides as wpstg0_revslider_slides from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_static_slides
+[INFO]-[2018/11/08 10:24:09] DB Copy: Creating table wpstg0_revslider_static_slides
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/11/08 10:24:10] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/11/08 10:24:10] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/11/08 10:24:10] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/11/08 10:24:10] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/11/08 10:24:10] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/11/08 10:24:10] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/11/08 10:24:10] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:10] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/11/08 10:24:10] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:11] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/11/08 10:24:11] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:11] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/11/08 10:24:11] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:11] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2018/11/08 10:24:11] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:11] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2018/11/08 10:24:11] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:11] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2018/11/08 10:24:11] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2018/11/08 10:24:11] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2018/11/08 10:24:11] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:24:12] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2018/11/08 10:24:12] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:24:13] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/11/08 10:24:13] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/11/08 10:24:13] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/11/08 10:24:13] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/11/08 10:24:13] DB Processing:  Table wpstg0_postmeta 5000 to 10000 records
+[INFO]-[2018/11/08 10:24:13] DB Processing:  Table wpstg0_postmeta 5000 to 10000 records
+[INFO]-[2018/11/08 10:24:14] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/11/08 10:24:14] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/11/08 10:24:14] DB Processing:  Table wpstg0_revslider_css 0 to 5000 records
+[INFO]-[2018/11/08 10:24:14] DB Processing:  Table wpstg0_revslider_css 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:24:14] DB Processing:  Table wpstg0_revslider_sliders 0 to 5000 records
+[INFO]-[2018/11/08 10:24:14] DB Processing:  Table wpstg0_revslider_sliders 0 to 5000 records
+[INFO]-[2018/11/08 10:24:15] DB Processing:  Table wpstg0_revslider_slides 0 to 5000 records
+[INFO]-[2018/11/08 10:24:15] DB Processing:  Table wpstg0_revslider_slides 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:24:15] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/11/08 10:24:15] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/11/08 10:24:15] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2018/11/08 10:24:15] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2018/11/08 10:24:16] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:24:17] Scanning / for files
+[INFO]-[2018/11/08 10:24:17] Scanning / for files
+[INFO]-[2018/11/08 10:24:17] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/11/08 10:24:17] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/11/08 10:24:18] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/11/08 10:24:18] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/11/08 10:24:18] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/11/08 10:24:18] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/11/08 10:24:18] Copying files...
+[INFO]-[2018/11/08 10:24:18] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/TEETH-WHITENING.jpg
+[INFO]-[2018/11/08 10:24:18] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/PORCELAIN-CROWNS.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/PORCELAIN-CROWNS.jpg
+[INFO]-[2018/11/08 10:24:18] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/5thandolivedental.png
+[INFO]-[2018/11/08 10:24:18] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/DENTAL-IMPLANTS.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/DENTAL-IMPLANTS.jpg
+[INFO]-[2018/11/08 10:24:18] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/kimnkimlogo-1.png
+[INFO]-[2018/11/08 10:24:18] Total 50 files processed
+[INFO]-[2018/11/08 10:24:18] Copying files...
+[INFO]-[2018/11/08 10:24:18] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/TEETH-WHITENING.jpg
+[INFO]-[2018/11/08 10:24:18] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/PORCELAIN-CROWNS.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/PORCELAIN-CROWNS.jpg
+[INFO]-[2018/11/08 10:24:18] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/5thandolivedental.png
+[INFO]-[2018/11/08 10:24:18] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/DENTAL-IMPLANTS.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/DENTAL-IMPLANTS.jpg
+[INFO]-[2018/11/08 10:24:18] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/kimnkimlogo-1.png
+[INFO]-[2018/11/08 10:24:18] Total 50 files processed
+[INFO]-[2018/11/08 10:24:18] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/PORCELAIN-VENEERS.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/PORCELAIN-VENEERS.jpg
+[INFO]-[2018/11/08 10:24:18] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/rainieravedental-logo.png
+[INFO]-[2018/11/08 10:24:19] Total 100 files processed
+[INFO]-[2018/11/08 10:24:18] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/PORCELAIN-VENEERS.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/PORCELAIN-VENEERS.jpg
+[INFO]-[2018/11/08 10:24:18] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/rainieravedental-logo.png
+[INFO]-[2018/11/08 10:24:19] Total 100 files processed
+[INFO]-[2018/11/08 10:24:19] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/DENTAL-BONDING.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/DENTAL-BONDING.jpg
+[INFO]-[2018/11/08 10:24:19] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/kimnkimlogo.png
+[INFO]-[2018/11/08 10:24:19] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/final-LOGO-4th_Morris-copy.png -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/final-LOGO-4th_Morris-copy.png
+[INFO]-[2018/11/08 10:24:19] Total 150 files processed
+[INFO]-[2018/11/08 10:24:19] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/DENTAL-BONDING.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/DENTAL-BONDING.jpg
+[INFO]-[2018/11/08 10:24:19] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/kimnkimlogo.png
+[INFO]-[2018/11/08 10:24:19] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/11/final-LOGO-4th_Morris-copy.png -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/11/final-LOGO-4th_Morris-copy.png
+[INFO]-[2018/11/08 10:24:19] Total 150 files processed
+[INFO]-[2018/11/08 10:24:19] Total 200 files processed
+[INFO]-[2018/11/08 10:24:19] Total 200 files processed
+[INFO]-[2018/11/08 10:24:19] Total 250 files processed
+[INFO]-[2018/11/08 10:24:19] Total 250 files processed
+[INFO]-[2018/11/08 10:24:20] Total 300 files processed
+[INFO]-[2018/11/08 10:24:20] Total 300 files processed
+[INFO]-[2018/11/08 10:24:20] Total 350 files processed
+[INFO]-[2018/11/08 10:24:20] Total 350 files processed
+[INFO]-[2018/11/08 10:24:20] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/02/DSC_9430.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/02/DSC_9430.jpg
+[INFO]-[2018/11/08 10:24:20] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/02/DSC_3109c.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/02/DSC_3109c.jpg
+[INFO]-[2018/11/08 10:24:20] Total 400 files processed
+[INFO]-[2018/11/08 10:24:20] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/02/DSC_9430.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/02/DSC_9430.jpg
+[INFO]-[2018/11/08 10:24:20] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/02/DSC_3109c.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/02/DSC_3109c.jpg
+[INFO]-[2018/11/08 10:24:20] Total 400 files processed
+[INFO]-[2018/11/08 10:24:20] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/02/DSC_9410.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/02/DSC_9410.jpg
+[INFO]-[2018/11/08 10:24:21] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/02/DSC_3122c.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/02/DSC_3122c.jpg
+[INFO]-[2018/11/08 10:24:21] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/Bianca.jpg
+[INFO]-[2018/11/08 10:24:21] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/DSC_4244.jpg
+[INFO]-[2018/11/08 10:24:21] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/DSC_2136.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/10/DSC_2136.jpg
+[INFO]-[2018/11/08 10:24:21] Total 450 files processed
+[INFO]-[2018/11/08 10:24:20] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/02/DSC_9410.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/02/DSC_9410.jpg
+[INFO]-[2018/11/08 10:24:21] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/02/DSC_3122c.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/02/DSC_3122c.jpg
+[INFO]-[2018/11/08 10:24:21] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/Bianca.jpg
+[INFO]-[2018/11/08 10:24:21] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/DSC_4244.jpg
+[INFO]-[2018/11/08 10:24:21] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/DSC_2136.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/10/DSC_2136.jpg
+[INFO]-[2018/11/08 10:24:21] Total 450 files processed
+[INFO]-[2018/11/08 10:24:21] Total 500 files processed
+[INFO]-[2018/11/08 10:24:21] Total 500 files processed
+[INFO]-[2018/11/08 10:24:21] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/animoto720p.mp4
+[INFO]-[2018/11/08 10:24:21] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/DSC_9410.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/10/DSC_9410.jpg
+[INFO]-[2018/11/08 10:24:21] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/DSC_2149.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/10/DSC_2149.jpg
+[INFO]-[2018/11/08 10:24:21] Total 550 files processed
+[INFO]-[2018/11/08 10:24:21] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/animoto720p.mp4
+[INFO]-[2018/11/08 10:24:21] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/DSC_9410.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/10/DSC_9410.jpg
+[INFO]-[2018/11/08 10:24:21] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2018/10/DSC_2149.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2018/10/DSC_2149.jpg
+[INFO]-[2018/11/08 10:24:21] Total 550 files processed
+[INFO]-[2018/11/08 10:24:21] Total 600 files processed
+[INFO]-[2018/11/08 10:24:21] Total 600 files processed
+[INFO]-[2018/11/08 10:24:22] Total 650 files processed
+[INFO]-[2018/11/08 10:24:22] Total 650 files processed
+[INFO]-[2018/11/08 10:24:22] Total 700 files processed
+[INFO]-[2018/11/08 10:24:22] Total 700 files processed
+[INFO]-[2018/11/08 10:24:22] Total 750 files processed
+[INFO]-[2018/11/08 10:24:22] Total 750 files processed
+[INFO]-[2018/11/08 10:24:22] Total 800 files processed
+[INFO]-[2018/11/08 10:24:22] Total 800 files processed
+[INFO]-[2018/11/08 10:24:23] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2012/11/DSC_8460-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2012/11/DSC_8460-1.jpg
+[INFO]-[2018/11/08 10:24:23] Total 850 files processed
+[INFO]-[2018/11/08 10:24:23] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2012/11/DSC_8460-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2012/11/DSC_8460-1.jpg
+[INFO]-[2018/11/08 10:24:23] Total 850 files processed
+[INFO]-[2018/11/08 10:24:23] Total 900 files processed
+[INFO]-[2018/11/08 10:24:23] Total 900 files processed
+[INFO]-[2018/11/08 10:24:23] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2012/11/DSC_8460.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2012/11/DSC_8460.jpg
+[INFO]-[2018/11/08 10:24:23] Total 950 files processed
+[INFO]-[2018/11/08 10:24:23] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2012/11/DSC_8460.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2012/11/DSC_8460.jpg
+[INFO]-[2018/11/08 10:24:23] Total 950 files processed
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8360-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8360-1.jpg
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8380-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8380-CROP.jpg
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9517-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9517-1.jpg
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8406.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8406.jpg
+[INFO]-[2018/11/08 10:24:24] Total 1000 files processed
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8360-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8360-1.jpg
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8380-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8380-CROP.jpg
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9517-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9517-1.jpg
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8406.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8406.jpg
+[INFO]-[2018/11/08 10:24:24] Total 1000 files processed
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8412-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8412-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:24] Total 1050 files processed
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8412-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8412-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:24] Total 1050 files processed
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_84991-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_84991-1.jpg
+[INFO]-[2018/11/08 10:24:24] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_5899-Josh-Edit-CROP-2.jpg
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8441-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8441-CROP.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8365.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8365.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8483.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8483.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9448.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9448.jpg
+[INFO]-[2018/11/08 10:24:25] Total 1100 files processed
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_84991-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_84991-1.jpg
+[INFO]-[2018/11/08 10:24:24] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_5899-Josh-Edit-CROP-2.jpg
+[INFO]-[2018/11/08 10:24:24] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8441-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8441-CROP.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8365.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8365.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8483.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8483.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9448.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9448.jpg
+[INFO]-[2018/11/08 10:24:25] Total 1100 files processed
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9458-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9458-1.jpg
+[INFO]-[2018/11/08 10:24:25] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8387-1.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9480-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9480-CROP.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9448-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9448-1.jpg
+[INFO]-[2018/11/08 10:24:25] Total 1150 files processed
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9458-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9458-1.jpg
+[INFO]-[2018/11/08 10:24:25] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8387-1.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9480-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9480-CROP.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9448-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9448-1.jpg
+[INFO]-[2018/11/08 10:24:25] Total 1150 files processed
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9525-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9525-1.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9469-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9469-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8429-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8429-1.jpg
+[INFO]-[2018/11/08 10:24:26] Total 1200 files processed
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9525-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9525-1.jpg
+[INFO]-[2018/11/08 10:24:25] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9469-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9469-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8429-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8429-1.jpg
+[INFO]-[2018/11/08 10:24:26] Total 1200 files processed
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8339-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8339-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8483-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8483-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9433-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9433-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9392-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9392-1.jpg
+[INFO]-[2018/11/08 10:24:26] Total 1250 files processed
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8339-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8339-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8483-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8483-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9433-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9433-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9392-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9392-1.jpg
+[INFO]-[2018/11/08 10:24:26] Total 1250 files processed
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9513.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9513.jpg
+[INFO]-[2018/11/08 10:24:26] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8387.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8380-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8380-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9416-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9416-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9469.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9469.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9416.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9416.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9430-1-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9430-1-1.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8429.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8429.jpg
+[INFO]-[2018/11/08 10:24:27] Total 1300 files processed
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9513.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9513.jpg
+[INFO]-[2018/11/08 10:24:26] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8387.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8380-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8380-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9416-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9416-1.jpg
+[INFO]-[2018/11/08 10:24:26] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9469.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9469.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9416.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9416.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9430-1-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9430-1-1.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8429.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8429.jpg
+[INFO]-[2018/11/08 10:24:27] Total 1300 files processed
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9525.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9525.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_84991.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_84991.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8441.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8441.jpg
+[INFO]-[2018/11/08 10:24:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_5899-Josh-Edit-CROP-2-1.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8499.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8499.jpg
+[INFO]-[2018/11/08 10:24:27] Total 1350 files processed
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9525.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9525.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_84991.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_84991.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8441.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8441.jpg
+[INFO]-[2018/11/08 10:24:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_5899-Josh-Edit-CROP-2-1.jpg
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8499.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8499.jpg
+[INFO]-[2018/11/08 10:24:27] Total 1350 files processed
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9480-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9480-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:27] Total 1400 files processed
+[INFO]-[2018/11/08 10:24:27] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9480-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9480-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:27] Total 1400 files processed
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9433.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9433.jpg
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9517.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9517.jpg
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8406-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8406-1.jpg
+[INFO]-[2018/11/08 10:24:28] Total 1450 files processed
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9433.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9433.jpg
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9517.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9517.jpg
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8406-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8406-1.jpg
+[INFO]-[2018/11/08 10:24:28] Total 1450 files processed
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8412-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8412-CROP.jpg
+[INFO]-[2018/11/08 10:24:28] Total 1500 files processed
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8412-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8412-CROP.jpg
+[INFO]-[2018/11/08 10:24:28] Total 1500 files processed
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8339-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8339-CROP.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9458.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9458.jpg
+[INFO]-[2018/11/08 10:24:29] Total 1550 files processed
+[INFO]-[2018/11/08 10:24:28] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8339-CROP.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8339-CROP.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9458.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9458.jpg
+[INFO]-[2018/11/08 10:24:29] Total 1550 files processed
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9513-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9513-1.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9392.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9392.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8499-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8499-1.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9410.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9410.jpg
+[INFO]-[2018/11/08 10:24:29] Total 1600 files processed
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9513-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9513-1.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9392.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9392.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8499-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8499-1.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_9410.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_9410.jpg
+[INFO]-[2018/11/08 10:24:29] Total 1600 files processed
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8441-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8441-1.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8360.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8360.jpg
+[INFO]-[2018/11/08 10:24:29] Total 1650 files processed
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8441-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8441-1.jpg
+[INFO]-[2018/11/08 10:24:29] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8360.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8360.jpg
+[INFO]-[2018/11/08 10:24:29] Total 1650 files processed
+[INFO]-[2018/11/08 10:24:30] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8365-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8365-1.jpg
+[INFO]-[2018/11/08 10:24:30] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8441-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8441-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:30] Total 1700 files processed
+[INFO]-[2018/11/08 10:24:30] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8365-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8365-1.jpg
+[INFO]-[2018/11/08 10:24:30] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2014/03/DSC_8441-CROP-1.jpg -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/2014/03/DSC_8441-CROP-1.jpg
+[INFO]-[2018/11/08 10:24:30] Total 1700 files processed
+[INFO]-[2018/11/08 10:24:30] Total 1750 files processed
+[INFO]-[2018/11/08 10:24:30] Total 1750 files processed
+[INFO]-[2018/11/08 10:24:30] Total 1800 files processed
+[INFO]-[2018/11/08 10:24:30] Total 1800 files processed
+[INFO]-[2018/11/08 10:24:31] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/GeoLite2-Country.mmdb -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/GeoLite2-Country.mmdb
+[INFO]-[2018/11/08 10:24:31] Total 1850 files processed
+[INFO]-[2018/11/08 10:24:31] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/GeoLite2-Country.mmdb -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/uploads/GeoLite2-Country.mmdb
+[INFO]-[2018/11/08 10:24:31] Total 1850 files processed
+[INFO]-[2018/11/08 10:24:31] Total 1900 files processed
+[INFO]-[2018/11/08 10:24:31] Total 1900 files processed
+[INFO]-[2018/11/08 10:24:31] Total 1950 files processed
+[INFO]-[2018/11/08 10:24:31] Total 1950 files processed
+[INFO]-[2018/11/08 10:24:31] Total 2000 files processed
+[INFO]-[2018/11/08 10:24:31] Total 2000 files processed
+[INFO]-[2018/11/08 10:24:32] Total 2050 files processed
+[INFO]-[2018/11/08 10:24:32] Total 2050 files processed
+[INFO]-[2018/11/08 10:24:32] Total 2100 files processed
+[INFO]-[2018/11/08 10:24:32] Total 2100 files processed
+[INFO]-[2018/11/08 10:24:32] Total 2150 files processed
+[INFO]-[2018/11/08 10:24:32] Total 2150 files processed
+[INFO]-[2018/11/08 10:24:33] Total 2200 files processed
+[INFO]-[2018/11/08 10:24:33] Total 2200 files processed
+[INFO]-[2018/11/08 10:24:33] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/ai1wm-backups/kimnkimdental.com-20181108-091233-587.wpress
+[INFO]-[2018/11/08 10:24:33] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/ai1wm-backups/kimnkimdental.com-20181108-083222-542.wpress
+[INFO]-[2018/11/08 10:24:33] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/ai1wm-backups/kimnkimdental.com-20181108-085339-152.wpress
+[INFO]-[2018/11/08 10:24:33] Total 2250 files processed
+[INFO]-[2018/11/08 10:24:33] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/ai1wm-backups/kimnkimdental.com-20181108-091233-587.wpress
+[INFO]-[2018/11/08 10:24:33] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/ai1wm-backups/kimnkimdental.com-20181108-083222-542.wpress
+[INFO]-[2018/11/08 10:24:33] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/ai1wm-backups/kimnkimdental.com-20181108-085339-152.wpress
+[INFO]-[2018/11/08 10:24:33] Total 2250 files processed
+[INFO]-[2018/11/08 10:24:33] Total 2300 files processed
+[INFO]-[2018/11/08 10:24:33] Total 2300 files processed
+[INFO]-[2018/11/08 10:24:34] Total 2350 files processed
+[INFO]-[2018/11/08 10:24:34] Total 2350 files processed
+[INFO]-[2018/11/08 10:24:34] Total 2400 files processed
+[INFO]-[2018/11/08 10:24:34] Total 2400 files processed
+[INFO]-[2018/11/08 10:24:34] Total 2450 files processed
+[INFO]-[2018/11/08 10:24:34] Total 2450 files processed
+[INFO]-[2018/11/08 10:24:35] Total 2500 files processed
+[INFO]-[2018/11/08 10:24:35] Total 2500 files processed
+[INFO]-[2018/11/08 10:24:36] Total 2550 files processed
+[INFO]-[2018/11/08 10:24:36] Total 2550 files processed
+[INFO]-[2018/11/08 10:24:37] Total 2600 files processed
+[INFO]-[2018/11/08 10:24:37] Total 2600 files processed
+[INFO]-[2018/11/08 10:24:38] Total 2650 files processed
+[INFO]-[2018/11/08 10:24:38] Total 2650 files processed
+[INFO]-[2018/11/08 10:24:39] Total 2700 files processed
+[INFO]-[2018/11/08 10:24:39] Total 2700 files processed
+[INFO]-[2018/11/08 10:24:40] Total 2750 files processed
+[INFO]-[2018/11/08 10:24:40] Total 2750 files processed
+[INFO]-[2018/11/08 10:24:41] Total 2800 files processed
+[INFO]-[2018/11/08 10:24:41] Total 2800 files processed
+[INFO]-[2018/11/08 10:24:41] Total 2850 files processed
+[INFO]-[2018/11/08 10:24:41] Total 2850 files processed
+[INFO]-[2018/11/08 10:24:42] Total 2900 files processed
+[INFO]-[2018/11/08 10:24:42] Total 2900 files processed
+[INFO]-[2018/11/08 10:24:42] Total 2950 files processed
+[INFO]-[2018/11/08 10:24:42] Total 2950 files processed
+[INFO]-[2018/11/08 10:24:42] Total 3000 files processed
+[INFO]-[2018/11/08 10:24:42] Total 3000 files processed
+[INFO]-[2018/11/08 10:24:42] Total 3050 files processed
+[INFO]-[2018/11/08 10:24:42] Total 3050 files processed
+[INFO]-[2018/11/08 10:24:43] Total 3100 files processed
+[INFO]-[2018/11/08 10:24:43] Total 3100 files processed
+[INFO]-[2018/11/08 10:24:43] Total 3150 files processed
+[INFO]-[2018/11/08 10:24:43] Total 3150 files processed
+[INFO]-[2018/11/08 10:24:43] Total 3200 files processed
+[INFO]-[2018/11/08 10:24:43] Total 3200 files processed
+[INFO]-[2018/11/08 10:24:43] Total 3250 files processed
+[INFO]-[2018/11/08 10:24:43] Total 3250 files processed
+[INFO]-[2018/11/08 10:24:44] Total 3300 files processed
+[INFO]-[2018/11/08 10:24:44] Total 3300 files processed
+[INFO]-[2018/11/08 10:24:44] Total 3350 files processed
+[INFO]-[2018/11/08 10:24:44] Total 3350 files processed
+[INFO]-[2018/11/08 10:24:44] Total 3400 files processed
+[INFO]-[2018/11/08 10:24:44] Total 3400 files processed
+[INFO]-[2018/11/08 10:24:44] Total 3450 files processed
+[INFO]-[2018/11/08 10:24:44] Total 3450 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3500 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3500 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3550 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3550 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3600 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3600 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3650 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3650 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3700 files processed
+[INFO]-[2018/11/08 10:24:45] Total 3700 files processed
+[INFO]-[2018/11/08 10:24:46] Total 3750 files processed
+[INFO]-[2018/11/08 10:24:46] Total 3750 files processed
+[INFO]-[2018/11/08 10:24:46] Total 3800 files processed
+[INFO]-[2018/11/08 10:24:46] Total 3800 files processed
+[INFO]-[2018/11/08 10:24:46] Total 3850 files processed
+[INFO]-[2018/11/08 10:24:46] Total 3850 files processed
+[INFO]-[2018/11/08 10:24:46] Total 3900 files processed
+[INFO]-[2018/11/08 10:24:46] Total 3900 files processed
+[INFO]-[2018/11/08 10:24:47] Total 3950 files processed
+[INFO]-[2018/11/08 10:24:47] Total 3950 files processed
+[INFO]-[2018/11/08 10:24:47] Total 4000 files processed
+[INFO]-[2018/11/08 10:24:47] Total 4000 files processed
+[INFO]-[2018/11/08 10:24:47] Total 4050 files processed
+[INFO]-[2018/11/08 10:24:47] Total 4050 files processed
+[INFO]-[2018/11/08 10:24:47] Total 4100 files processed
+[INFO]-[2018/11/08 10:24:47] Total 4100 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4150 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4150 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4200 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4200 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4250 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4250 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4300 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4300 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4350 files processed
+[INFO]-[2018/11/08 10:24:48] Total 4350 files processed
+[INFO]-[2018/11/08 10:24:49] Total 4400 files processed
+[INFO]-[2018/11/08 10:24:49] Total 4400 files processed
+[INFO]-[2018/11/08 10:24:49] Total 4450 files processed
+[INFO]-[2018/11/08 10:24:49] Total 4450 files processed
+[INFO]-[2018/11/08 10:24:49] Total 4500 files processed
+[INFO]-[2018/11/08 10:24:49] Total 4500 files processed
+[INFO]-[2018/11/08 10:24:49] Total 4550 files processed
+[INFO]-[2018/11/08 10:24:49] Total 4550 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4600 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4600 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4650 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4650 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4700 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4700 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4750 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4750 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4800 files processed
+[INFO]-[2018/11/08 10:24:50] Total 4800 files processed
+[INFO]-[2018/11/08 10:24:51] Total 4850 files processed
+[INFO]-[2018/11/08 10:24:51] Total 4850 files processed
+[INFO]-[2018/11/08 10:24:51] Total 4900 files processed
+[INFO]-[2018/11/08 10:24:51] Total 4900 files processed
+[INFO]-[2018/11/08 10:24:51] Total 4950 files processed
+[INFO]-[2018/11/08 10:24:51] Total 4950 files processed
+[INFO]-[2018/11/08 10:24:51] Total 5000 files processed
+[INFO]-[2018/11/08 10:24:51] Total 5000 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5050 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5050 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5100 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5100 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5150 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5150 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5200 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5200 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5250 files processed
+[INFO]-[2018/11/08 10:24:52] Total 5250 files processed
+[INFO]-[2018/11/08 10:24:53] Total 5300 files processed
+[INFO]-[2018/11/08 10:24:53] Total 5300 files processed
+[INFO]-[2018/11/08 10:24:53] Total 5350 files processed
+[INFO]-[2018/11/08 10:24:53] Total 5350 files processed
+[INFO]-[2018/11/08 10:24:53] Total 5400 files processed
+[INFO]-[2018/11/08 10:24:53] Total 5400 files processed
+[INFO]-[2018/11/08 10:24:53] Total 5450 files processed
+[INFO]-[2018/11/08 10:24:53] Total 5450 files processed
+[INFO]-[2018/11/08 10:24:54] Total 5500 files processed
+[INFO]-[2018/11/08 10:24:54] Total 5500 files processed
+[INFO]-[2018/11/08 10:24:54] Total 5550 files processed
+[INFO]-[2018/11/08 10:24:54] Total 5550 files processed
+[INFO]-[2018/11/08 10:24:54] Total 5600 files processed
+[INFO]-[2018/11/08 10:24:54] Total 5600 files processed
+[INFO]-[2018/11/08 10:24:54] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js
+[INFO]-[2018/11/08 10:24:54] Total 5650 files processed
+[INFO]-[2018/11/08 10:24:54] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js
+[INFO]-[2018/11/08 10:24:54] Total 5650 files processed
+[INFO]-[2018/11/08 10:24:55] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js
+[INFO]-[2018/11/08 10:24:55] Total 5700 files processed
+[INFO]-[2018/11/08 10:24:55] Trying to copy big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js -> /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js
+[INFO]-[2018/11/08 10:24:55] Total 5700 files processed
+[INFO]-[2018/11/08 10:24:55] Total 5750 files processed
+[INFO]-[2018/11/08 10:24:55] Total 5750 files processed
+[INFO]-[2018/11/08 10:24:55] Total 5800 files processed
+[INFO]-[2018/11/08 10:24:55] Total 5800 files processed
+[INFO]-[2018/11/08 10:24:55] Total 5850 files processed
+[INFO]-[2018/11/08 10:24:55] Total 5850 files processed
+[INFO]-[2018/11/08 10:24:56] Total 5900 files processed
+[INFO]-[2018/11/08 10:24:56] Total 5900 files processed
+[INFO]-[2018/11/08 10:24:56] Total 5950 files processed
+[INFO]-[2018/11/08 10:24:56] Total 5950 files processed
+[INFO]-[2018/11/08 10:24:56] Total 6000 files processed
+[INFO]-[2018/11/08 10:24:56] Total 6000 files processed
+[INFO]-[2018/11/08 10:24:56] Total 6050 files processed
+[INFO]-[2018/11/08 10:24:56] Total 6050 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6100 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6100 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6150 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6150 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6200 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6200 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6250 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6250 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6300 files processed
+[INFO]-[2018/11/08 10:24:57] Total 6300 files processed
+[INFO]-[2018/11/08 10:24:58] Total 6350 files processed
+[INFO]-[2018/11/08 10:24:58] Total 6350 files processed
+[INFO]-[2018/11/08 10:24:58] Total 6400 files processed
+[INFO]-[2018/11/08 10:24:58] Total 6400 files processed
+[INFO]-[2018/11/08 10:24:58] Total 6450 files processed
+[INFO]-[2018/11/08 10:24:58] Total 6450 files processed
+[INFO]-[2018/11/08 10:24:58] Total 6500 files processed
+[INFO]-[2018/11/08 10:24:58] Total 6500 files processed
+[INFO]-[2018/11/08 10:24:59] Total 6550 files processed
+[INFO]-[2018/11/08 10:24:59] Total 6550 files processed
+[INFO]-[2018/11/08 10:24:59] Total 6600 files processed
+[INFO]-[2018/11/08 10:24:59] Total 6600 files processed
+[INFO]-[2018/11/08 10:24:59] Total 6650 files processed
+[INFO]-[2018/11/08 10:24:59] Total 6650 files processed
+[INFO]-[2018/11/08 10:24:59] Total 6700 files processed
+[INFO]-[2018/11/08 10:24:59] Total 6700 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6750 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6750 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6800 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6800 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6850 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6850 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6900 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6900 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6950 files processed
+[INFO]-[2018/11/08 10:25:00] Total 6950 files processed
+[INFO]-[2018/11/08 10:25:01] Total 7000 files processed
+[INFO]-[2018/11/08 10:25:01] Total 7000 files processed
+[INFO]-[2018/11/08 10:25:01] Total 7050 files processed
+[INFO]-[2018/11/08 10:25:01] Total 7050 files processed
+[INFO]-[2018/11/08 10:25:01] Total 7100 files processed
+[INFO]-[2018/11/08 10:25:01] Total 7100 files processed
+[INFO]-[2018/11/08 10:25:01] Total 7150 files processed
+[INFO]-[2018/11/08 10:25:01] Total 7150 files processed
+[INFO]-[2018/11/08 10:25:02] Total 7200 files processed
+[INFO]-[2018/11/08 10:25:02] Total 7200 files processed
+[INFO]-[2018/11/08 10:25:02] Total 7250 files processed
+[INFO]-[2018/11/08 10:25:02] Total 7250 files processed
+[INFO]-[2018/11/08 10:25:02] Total 7300 files processed
+[INFO]-[2018/11/08 10:25:02] Total 7300 files processed
+[INFO]-[2018/11/08 10:25:03] Total 7350 files processed
+[INFO]-[2018/11/08 10:25:03] Total 7350 files processed
+[INFO]-[2018/11/08 10:25:03] Total 7400 files processed
+[INFO]-[2018/11/08 10:25:03] Total 7400 files processed
+[INFO]-[2018/11/08 10:25:03] Total 7450 files processed
+[INFO]-[2018/11/08 10:25:03] Total 7450 files processed
+[INFO]-[2018/11/08 10:25:03] Total 7500 files processed
+[INFO]-[2018/11/08 10:25:03] Total 7500 files processed
+[INFO]-[2018/11/08 10:25:04] Total 7550 files processed
+[INFO]-[2018/11/08 10:25:04] Total 7550 files processed
+[INFO]-[2018/11/08 10:25:04] Total 7600 files processed
+[INFO]-[2018/11/08 10:25:04] Total 7600 files processed
+[INFO]-[2018/11/08 10:25:04] Total 7650 files processed
+[INFO]-[2018/11/08 10:25:04] Total 7650 files processed
+[INFO]-[2018/11/08 10:25:04] Total 7700 files processed
+[INFO]-[2018/11/08 10:25:04] Total 7700 files processed
+[INFO]-[2018/11/08 10:25:05] Total 7750 files processed
+[INFO]-[2018/11/08 10:25:05] Total 7750 files processed
+[INFO]-[2018/11/08 10:25:05] Total 7800 files processed
+[INFO]-[2018/11/08 10:25:05] Total 7800 files processed
+[INFO]-[2018/11/08 10:25:05] Total 7850 files processed
+[INFO]-[2018/11/08 10:25:05] Total 7850 files processed
+[INFO]-[2018/11/08 10:25:05] Total 7900 files processed
+[INFO]-[2018/11/08 10:25:05] Total 7900 files processed
+[INFO]-[2018/11/08 10:25:06] Total 7950 files processed
+[INFO]-[2018/11/08 10:25:06] Total 7950 files processed
+[INFO]-[2018/11/08 10:25:06] Total 8000 files processed
+[INFO]-[2018/11/08 10:25:06] Total 8000 files processed
+[INFO]-[2018/11/08 10:25:06] Total 8050 files processed
+[INFO]-[2018/11/08 10:25:06] Total 8050 files processed
+[INFO]-[2018/11/08 10:25:06] Total 8100 files processed
+[INFO]-[2018/11/08 10:25:06] Total 8100 files processed
+[INFO]-[2018/11/08 10:25:06] Total 8150 files processed
+[INFO]-[2018/11/08 10:25:06] Total 8150 files processed
+[INFO]-[2018/11/08 10:25:07] Total 8200 files processed
+[INFO]-[2018/11/08 10:25:07] Total 8200 files processed
+[INFO]-[2018/11/08 10:25:07] Total 8250 files processed
+[INFO]-[2018/11/08 10:25:07] Total 8250 files processed
+[INFO]-[2018/11/08 10:25:07] Total 8300 files processed
+[INFO]-[2018/11/08 10:25:07] Total 8300 files processed
+[INFO]-[2018/11/08 10:25:07] Total 8350 files processed
+[INFO]-[2018/11/08 10:25:07] Total 8350 files processed
+[INFO]-[2018/11/08 10:25:08] Total 8400 files processed
+[INFO]-[2018/11/08 10:25:08] Total 8400 files processed
+[INFO]-[2018/11/08 10:25:08] Total 8450 files processed
+[INFO]-[2018/11/08 10:25:08] Total 8450 files processed
+[INFO]-[2018/11/08 10:25:08] Total 8500 files processed
+[INFO]-[2018/11/08 10:25:08] Total 8500 files processed
+[INFO]-[2018/11/08 10:25:08] Total 8550 files processed
+[INFO]-[2018/11/08 10:25:08] Total 8550 files processed
+[INFO]-[2018/11/08 10:25:09] Total 8600 files processed
+[INFO]-[2018/11/08 10:25:09] Total 8600 files processed
+[INFO]-[2018/11/08 10:25:09] Total 8650 files processed
+[INFO]-[2018/11/08 10:25:09] Total 8650 files processed
+[INFO]-[2018/11/08 10:25:09] Total 8700 files processed
+[INFO]-[2018/11/08 10:25:09] Total 8700 files processed
+[INFO]-[2018/11/08 10:25:09] Total 8750 files processed
+[INFO]-[2018/11/08 10:25:09] Total 8750 files processed
+[INFO]-[2018/11/08 10:25:10] Total 8800 files processed
+[INFO]-[2018/11/08 10:25:10] Total 8800 files processed
+[INFO]-[2018/11/08 10:25:10] Total 8850 files processed
+[INFO]-[2018/11/08 10:25:10] Total 8850 files processed
+[INFO]-[2018/11/08 10:25:10] Total 8900 files processed
+[INFO]-[2018/11/08 10:25:10] Total 8900 files processed
+[INFO]-[2018/11/08 10:25:10] Total 8950 files processed
+[INFO]-[2018/11/08 10:25:10] Total 8950 files processed
+[INFO]-[2018/11/08 10:25:11] Total 9000 files processed
+[INFO]-[2018/11/08 10:25:11] Total 9000 files processed
+[INFO]-[2018/11/08 10:25:11] Total 9050 files processed
+[INFO]-[2018/11/08 10:25:11] Total 9050 files processed
+[INFO]-[2018/11/08 10:25:11] Total 9100 files processed
+[INFO]-[2018/11/08 10:25:11] Total 9100 files processed
+[INFO]-[2018/11/08 10:25:11] Total 9150 files processed
+[INFO]-[2018/11/08 10:25:11] Total 9150 files processed
+[INFO]-[2018/11/08 10:25:12] Total 9200 files processed
+[INFO]-[2018/11/08 10:25:12] Total 9200 files processed
+[INFO]-[2018/11/08 10:25:12] Total 9250 files processed
+[INFO]-[2018/11/08 10:25:12] Total 9250 files processed
+[INFO]-[2018/11/08 10:25:12] Total 9300 files processed
+[INFO]-[2018/11/08 10:25:12] Total 9300 files processed
+[INFO]-[2018/11/08 10:25:12] Total 9350 files processed
+[INFO]-[2018/11/08 10:25:12] Total 9350 files processed
+[INFO]-[2018/11/08 10:25:13] Total 9400 files processed
+[INFO]-[2018/11/08 10:25:13] Total 9400 files processed
+[INFO]-[2018/11/08 10:25:13] Total 9450 files processed
+[INFO]-[2018/11/08 10:25:13] Total 9450 files processed
+[INFO]-[2018/11/08 10:25:13] Total 9500 files processed
+[INFO]-[2018/11/08 10:25:13] Total 9500 files processed
+[INFO]-[2018/11/08 10:25:13] Total 9550 files processed
+[INFO]-[2018/11/08 10:25:13] Total 9550 files processed
+[INFO]-[2018/11/08 10:25:14] Total 9600 files processed
+[INFO]-[2018/11/08 10:25:14] Total 9600 files processed
+[INFO]-[2018/11/08 10:25:14] Total 9650 files processed
+[INFO]-[2018/11/08 10:25:14] Total 9650 files processed
+[INFO]-[2018/11/08 10:25:14] Total 9700 files processed
+[INFO]-[2018/11/08 10:25:14] Total 9700 files processed
+[INFO]-[2018/11/08 10:25:14] Total 9750 files processed
+[INFO]-[2018/11/08 10:25:14] Total 9750 files processed
+[INFO]-[2018/11/08 10:25:15] Total 9800 files processed
+[INFO]-[2018/11/08 10:25:15] Total 9800 files processed
+[INFO]-[2018/11/08 10:25:15] Total 9850 files processed
+[INFO]-[2018/11/08 10:25:15] Total 9850 files processed
+[INFO]-[2018/11/08 10:25:15] Total 9900 files processed
+[INFO]-[2018/11/08 10:25:15] Total 9900 files processed
+[INFO]-[2018/11/08 10:25:15] Total 9950 files processed
+[INFO]-[2018/11/08 10:25:15] Total 9950 files processed
+[INFO]-[2018/11/08 10:25:16] Total 10000 files processed
+[INFO]-[2018/11/08 10:25:16] Total 10000 files processed
+[INFO]-[2018/11/08 10:25:16] Total 10050 files processed
+[INFO]-[2018/11/08 10:25:16] Total 10050 files processed
+[INFO]-[2018/11/08 10:25:16] Total 10100 files processed
+[INFO]-[2018/11/08 10:25:16] Total 10100 files processed
+[INFO]-[2018/11/08 10:25:16] Total 10150 files processed
+[INFO]-[2018/11/08 10:25:16] Total 10150 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10200 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10200 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10250 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10250 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10300 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10300 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10350 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10350 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10400 files processed
+[INFO]-[2018/11/08 10:25:17] Total 10400 files processed
+[INFO]-[2018/11/08 10:25:18] Total 10450 files processed
+[INFO]-[2018/11/08 10:25:18] Total 10450 files processed
+[INFO]-[2018/11/08 10:25:18] Total 10500 files processed
+[INFO]-[2018/11/08 10:25:18] Total 10500 files processed
+[INFO]-[2018/11/08 10:25:18] Total 10550 files processed
+[INFO]-[2018/11/08 10:25:18] Total 10550 files processed
+[INFO]-[2018/11/08 10:25:18] Total 10600 files processed
+[INFO]-[2018/11/08 10:25:18] Total 10600 files processed
+[INFO]-[2018/11/08 10:25:19] Total 10650 files processed
+[INFO]-[2018/11/08 10:25:19] Total 10650 files processed
+[INFO]-[2018/11/08 10:25:19] Total 10700 files processed
+[INFO]-[2018/11/08 10:25:19] Total 10700 files processed
+[INFO]-[2018/11/08 10:25:19] Total 10750 files processed
+[INFO]-[2018/11/08 10:25:19] Total 10750 files processed
+[INFO]-[2018/11/08 10:25:19] Total 10800 files processed
+[INFO]-[2018/11/08 10:25:19] Total 10800 files processed
+[INFO]-[2018/11/08 10:25:20] Total 10850 files processed
+[INFO]-[2018/11/08 10:25:20] Total 10850 files processed
+[INFO]-[2018/11/08 10:25:20] Total 10900 files processed
+[INFO]-[2018/11/08 10:25:20] Total 10900 files processed
+[INFO]-[2018/11/08 10:25:20] Total 10950 files processed
+[INFO]-[2018/11/08 10:25:20] Total 10950 files processed
+[INFO]-[2018/11/08 10:25:20] Total 11000 files processed
+[INFO]-[2018/11/08 10:25:20] Total 11000 files processed
+[INFO]-[2018/11/08 10:25:21] Total 11050 files processed
+[INFO]-[2018/11/08 10:25:21] Total 11050 files processed
+[INFO]-[2018/11/08 10:25:21] Total 11100 files processed
+[INFO]-[2018/11/08 10:25:21] Total 11100 files processed
+[INFO]-[2018/11/08 10:25:21] Total 11150 files processed
+[INFO]-[2018/11/08 10:25:21] Total 11150 files processed
+[INFO]-[2018/11/08 10:25:21] Total 11200 files processed
+[INFO]-[2018/11/08 10:25:21] Total 11200 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11250 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11250 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11300 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11300 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11350 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11350 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11400 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11400 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11450 files processed
+[INFO]-[2018/11/08 10:25:22] Total 11450 files processed
+[INFO]-[2018/11/08 10:25:23] Total 11500 files processed
+[INFO]-[2018/11/08 10:25:23] Total 11500 files processed
+[INFO]-[2018/11/08 10:25:23] Total 11550 files processed
+[INFO]-[2018/11/08 10:25:23] Total 11550 files processed
+[INFO]-[2018/11/08 10:25:23] Total 11600 files processed
+[INFO]-[2018/11/08 10:25:23] Total 11600 files processed
+[INFO]-[2018/11/08 10:25:23] Total 11650 files processed
+[INFO]-[2018/11/08 10:25:23] Total 11650 files processed
+[INFO]-[2018/11/08 10:25:24] Total 11700 files processed
+[INFO]-[2018/11/08 10:25:24] Total 11700 files processed
+[INFO]-[2018/11/08 10:25:24] Total 11750 files processed
+[INFO]-[2018/11/08 10:25:24] Total 11750 files processed
+[INFO]-[2018/11/08 10:25:24] Total 11800 files processed
+[INFO]-[2018/11/08 10:25:24] Total 11800 files processed
+[INFO]-[2018/11/08 10:25:24] Total 11850 files processed
+[INFO]-[2018/11/08 10:25:24] Total 11850 files processed
+[INFO]-[2018/11/08 10:25:25] Total 11900 files processed
+[INFO]-[2018/11/08 10:25:25] Total 11900 files processed
+[INFO]-[2018/11/08 10:25:25] Total 11950 files processed
+[INFO]-[2018/11/08 10:25:25] Total 11950 files processed
+[INFO]-[2018/11/08 10:25:25] Total 12000 files processed
+[INFO]-[2018/11/08 10:25:25] Total 12000 files processed
+[INFO]-[2018/11/08 10:25:25] Total 12050 files processed
+[INFO]-[2018/11/08 10:25:25] Total 12050 files processed
+[INFO]-[2018/11/08 10:25:26] Total 12100 files processed
+[INFO]-[2018/11/08 10:25:26] Total 12100 files processed
+[INFO]-[2018/11/08 10:25:26] Total 12150 files processed
+[INFO]-[2018/11/08 10:25:26] Total 12150 files processed
+[INFO]-[2018/11/08 10:25:26] Total 12200 files processed
+[INFO]-[2018/11/08 10:25:26] Total 12200 files processed
+[INFO]-[2018/11/08 10:25:26] Total 12250 files processed
+[INFO]-[2018/11/08 10:25:26] Total 12250 files processed
+[INFO]-[2018/11/08 10:25:27] Total 12300 files processed
+[INFO]-[2018/11/08 10:25:27] Total 12300 files processed
+[INFO]-[2018/11/08 10:25:27] Total 12350 files processed
+[INFO]-[2018/11/08 10:25:27] Total 12350 files processed
+[INFO]-[2018/11/08 10:25:27] Total 12400 files processed
+[INFO]-[2018/11/08 10:25:27] Total 12400 files processed
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0952_KimampKim_Dentaistry_ecc9a395e894-plugins.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0941_KimampKim_Dentaistry_a292377dee8c-themes.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0952_KimampKim_Dentaistry_ecc9a395e894-themes.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0952_KimampKim_Dentaistry_ecc9a395e894-uploads.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0941_KimampKim_Dentaistry_a292377dee8c-uploads.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0941_KimampKim_Dentaistry_a292377dee8c-uploads2.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0941_KimampKim_Dentaistry_a292377dee8c-plugins.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0952_KimampKim_Dentaistry_ecc9a395e894-uploads2.zip
+[INFO]-[2018/11/08 10:25:27] Total 12450 files processed
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0952_KimampKim_Dentaistry_ecc9a395e894-plugins.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0941_KimampKim_Dentaistry_a292377dee8c-themes.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0952_KimampKim_Dentaistry_ecc9a395e894-themes.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0952_KimampKim_Dentaistry_ecc9a395e894-uploads.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0941_KimampKim_Dentaistry_a292377dee8c-uploads.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0941_KimampKim_Dentaistry_a292377dee8c-uploads2.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0941_KimampKim_Dentaistry_a292377dee8c-plugins.zip
+[INFO]-[2018/11/08 10:25:27] Skipping big file: /opt/bitnami/apps/wordpress/htdocs/wp-content/updraft/backup_2018-11-08-0952_KimampKim_Dentaistry_ecc9a395e894-uploads2.zip
+[INFO]-[2018/11/08 10:25:27] Total 12450 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12500 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12500 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12550 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12550 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12600 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12600 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12650 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12650 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12700 files processed
+[INFO]-[2018/11/08 10:25:28] Total 12700 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12750 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12750 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12800 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12800 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12850 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12850 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12900 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12900 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12950 files processed
+[INFO]-[2018/11/08 10:25:29] Total 12950 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13000 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13000 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13050 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13050 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13100 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13100 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13150 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13150 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13200 files processed
+[INFO]-[2018/11/08 10:25:30] Total 13200 files processed
+[INFO]-[2018/11/08 10:25:31] Total 13250 files processed
+[INFO]-[2018/11/08 10:25:31] Total 13250 files processed
+[INFO]-[2018/11/08 10:25:31] Total 13300 files processed
+[INFO]-[2018/11/08 10:25:31] Total 13300 files processed
+[INFO]-[2018/11/08 10:25:31] Total 13350 files processed
+[INFO]-[2018/11/08 10:25:31] Total 13350 files processed
+[INFO]-[2018/11/08 10:25:31] Total 13400 files processed
+[INFO]-[2018/11/08 10:25:31] Total 13400 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13450 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13450 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13500 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13500 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13550 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13550 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13600 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13600 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13650 files processed
+[INFO]-[2018/11/08 10:25:32] Total 13650 files processed
+[INFO]-[2018/11/08 10:25:33] Total 13700 files processed
+[INFO]-[2018/11/08 10:25:33] Total 13700 files processed
+[INFO]-[2018/11/08 10:25:33] Total 13750 files processed
+[INFO]-[2018/11/08 10:25:33] Total 13750 files processed
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:25:33] Copying files finished
+[INFO]-[2018/11/08 10:25:33] Copying files finished
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step0: Skip it
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step0: Skip it
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step1: Updating siteurl and homeurl to https://kimnkimdental.com/1541672644873
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step1: Successfull
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step1: Updating siteurl and homeurl to https://kimnkimdental.com/1541672644873
+[INFO]-[2018/11/08 10:25:33] Preparing Data Step1: Successfull
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step2: Successfull
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step2: Successfull
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step5: Updating table_prefix in /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-config.php to wpstg0_
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step5: Updating table_prefix in /opt/bitnami/apps/wordpress/htdocs/1541672644873/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2018/11/08 10:25:34] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2018/11/08 10:25:34] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2018/11/08 10:25:34] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step8: Finished Step 8 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step8: Finished Step 8 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step9: Finished Step 9 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step9: Finished Step 9 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://kimnkimdental.com/1541672644873
+[INFO]-[2018/11/08 10:25:35] Preparing Data: Finished Step 10 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://kimnkimdental.com/1541672644873
+[INFO]-[2018/11/08 10:25:35] Preparing Data: Finished Step 10 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://kimnkimdental.com/1541672644873
+[INFO]-[2018/11/08 10:25:35] Preparing Data: Finished Step 11 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://kimnkimdental.com/1541672644873
+[INFO]-[2018/11/08 10:25:35] Preparing Data: Finished Step 11 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2018/11/08 10:25:35] Updating option_name in wpstg0_options. Last error: 
+[INFO]-[2018/11/08 10:25:35] Preparing Data: Finished Step 12 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2018/11/08 10:25:35] Updating option_name in wpstg0_options. Last error: 
+[INFO]-[2018/11/08 10:25:35] Preparing Data: Finished Step 12 successfully
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step13: Skipping
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2018/11/08 10:25:35] Preparing Data Step13: Skipping
+[INFO]-[2018/11/08 10:25:36] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2018/11/08 10:25:36] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/11/08 10:25:36] Preparing Data: Finished Step 14 successfully
+[INFO]-[2018/11/08 10:25:36] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2018/11/08 10:25:36] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/11/08 10:25:36] Preparing Data: Finished Step 14 successfully
+[]-[] 
+[]-[] 
+[INFO]-[2018/11/08 10:25:36] Finish: Deleting clone job's cache files...
+[INFO]-[2018/11/08 10:25:36] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/11/08 10:25:36] Finish: Verifying existing clones...
+[INFO]-[2018/11/08 10:25:36] Finish: 1541672644873's clone job's data is not in database, generating data
+[INFO]-[2018/11/08 10:25:36] Finish: Deleting clone job's cache files...
+[INFO]-[2018/11/08 10:25:36] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/11/08 10:25:36] Finish: Verifying existing clones...
+[INFO]-[2018/11/08 10:25:36] Finish: 1541672644873's clone job's data is not in database, generating data

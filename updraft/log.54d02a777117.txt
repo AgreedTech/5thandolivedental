@@ -1,0 +1,282 @@
+0000.007 (0) Opened log file at time: Sun, 14 Aug 2022 09:49:02 +0000 on https://5thandolivedental.com
+0000.021 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.3 WP: 5.8.4 PHP: 7.0.30 (fpm-fcgi, Linux ip-172-26-2-239 4.4.0-1107-aws #118-Ubuntu SMP Sun May 3 23:28:51 UTC 2020 x86_64) MySQL: 5.7.22 (max packet size=33554432) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14M | 2M) multisite: N openssl: OpenSSL 1.0.2o  27 Mar 2018 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.026 (0) Free space on disk containing Updraft's temporary directory: 5124.1 MB
+0000.067 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.070 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.081 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1660384006, seconds_ago=86536)
+0000.090 (0) Set semaphore last lock (fd) time to 2022-08-14 09:49:02
+0000.092 (0) Semaphore lock (fd) complete
+0000.101 (0) Backup run: resumption=0, nonce=54d02a777117, file_nonce=54d02a777117 begun at=1660470542 (0s ago), job type=backup
+0000.106 (0) Scheduling a resumption (1) after 300 seconds (1660470842) in case this run gets aborted
+0000.116 (0) Checking if we have a zip executable available
+0000.118 (0) Testing: /usr/bin/zip
+0000.129 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.133 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.136 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.139 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.141 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.147 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.150 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.159 (0) Working binary zip found: /usr/bin/zip
+0000.165 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.166 (0) Creation of backups of directories: beginning
+0000.174 (0) No backup of plugins: excluded by user's options
+0000.177 (0) No backup of themes: excluded by user's options
+0000.178 (0) No backup of uploads: excluded by user's options
+0000.181 (0) No backup of others: excluded by user's options
+0000.190 (0) Saving backup status to database (elements: 0)
+0000.473 (0) Beginning creation of database dump (WordPress DB)
+0000.479 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0000.603 (0) Table wp_options: Total expected rows (via COUNT): 602
+0000.801 (0) Table wp_options: Rows added in this batch (next record: 2346264): 598 (uncompressed bytes in this segment=1331533) in 0.22 seconds
+0000.817 (0) Table wp_options: finishing file(s) (2, 225.9 KB)
+0000.825 (0) Table wp_users: Total expected rows (via COUNT): 4
+0000.828 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0000.834 (0) Table wp_users: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1820) in 0.01 seconds
+0000.842 (0) Table wp_users: finishing file(s) (2, 0.8 KB)
+0000.861 (0) Table wp_usermeta: Total expected rows (via COUNT): 86
+0000.862 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0000.869 (0) Table wp_usermeta: Rows added in this batch (next record: 97): 86 (uncompressed bytes in this segment=7715) in 0.02 seconds
+0000.878 (0) Table wp_usermeta: finishing file(s) (2, 2.6 KB)
+0000.891 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 4
+0000.895 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0000.901 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=2737) in 0.02 seconds
+0000.914 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 0.8 KB)
+0000.919 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0000.926 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.01 seconds
+0000.933 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0000.944 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0000.947 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0000.953 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=711) in 0.01 seconds
+0000.962 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0000.974 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 12
+0000.976 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0000.979 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=1845) in 0.01 seconds
+0000.987 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.6 KB)
+0001.005 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0001.009 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.01 seconds
+0001.021 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0001.036 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0001.043 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1705) in 0.01 seconds
+0001.073 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0001.083 (0) Table wp_links: Total expected rows (via COUNT): 0
+0001.087 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.01 seconds
+0001.097 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0001.131 (0) Table wp_postmeta: Total expected rows (approximate): 3307
+0001.190 (0) Table wp_postmeta: Rows added in this batch (next record: 10547): 3383 (uncompressed bytes in this segment=469599) in 0.09 seconds
+0001.204 (0) Table wp_postmeta: finishing file(s) (2, 65.6 KB)
+0001.664 (0) Table wp_posts: Total expected rows (via COUNT): 886
+0002.279 (0) Table wp_posts: Rows added in this batch (next record: 2014): 886 (uncompressed bytes in this segment=7285031) in 1.07 seconds
+0002.298 (0) Table wp_posts: finishing file(s) (2, 705.3 KB)
+0002.310 (0) Table wp_term_relationships: Total expected rows (approximate): 338
+0002.324 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 318 (uncompressed bytes in this segment=5434) in 0.02 seconds
+0002.336 (0) Table wp_term_relationships: finishing file(s) (2, 1.1 KB)
+0002.353 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 8
+0002.357 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.369 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1198) in 0.03 seconds
+0002.382 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0002.400 (0) Table wp_termmeta: Total expected rows (via COUNT): 13
+0002.404 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.409 (0) Table wp_termmeta: Rows added in this batch (next record: 30): 13 (uncompressed bytes in this segment=1451) in 0.02 seconds
+0002.430 (0) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+0002.445 (0) Table wp_terms: Total expected rows (via COUNT): 8
+0002.448 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.455 (0) Table wp_terms: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=999) in 0.02 seconds
+0002.468 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0002.486 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 23
+0002.492 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.499 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 2223): 23 (uncompressed bytes in this segment=3143) in 0.02 seconds
+0002.519 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.8 KB)
+0002.529 (0) Table wp_yoast_seo_meta: Total expected rows (via COUNT): 322
+0002.534 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.545 (0) Table wp_yoast_seo_meta: Rows added in this batch (next record: 2015): 322 (uncompressed bytes in this segment=5396) in 0.02 seconds
+0002.563 (0) Table wp_yoast_seo_meta: finishing file(s) (2, 1.2 KB)
+0002.574 (0) Table wp_blc_filters: Total expected rows (via COUNT): 0
+0002.579 (0) Table wp_blc_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=537) in 0.01 seconds
+0002.586 (0) Table wp_blc_filters: finishing file(s) (2, 0.3 KB)
+0002.596 (0) Table wp_blc_instances: Total expected rows (via COUNT): 22
+0002.599 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.606 (0) Table wp_blc_instances: Rows added in this batch (next record: 88): 22 (uncompressed bytes in this segment=5385) in 0.01 seconds
+0002.617 (0) Table wp_blc_instances: finishing file(s) (2, 1.2 KB)
+0002.624 (0) Table wp_blc_links: Total expected rows (via COUNT): 13
+0002.627 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.634 (0) Table wp_blc_links: Rows added in this batch (next record: 18): 13 (uncompressed bytes in this segment=29814) in 0.01 seconds
+0002.642 (0) Table wp_blc_links: finishing file(s) (2, 5.3 KB)
+0002.648 (0) Table wp_blc_synch: Total expected rows (approximate): 18
+0002.657 (0) Table wp_blc_synch: Rows added in this batch (next record: 1000): 18 (uncompressed bytes in this segment=1451) in 0.01 seconds
+0002.666 (0) Table wp_blc_synch: finishing file(s) (2, 0.6 KB)
+0002.676 (0) Table wp_glsr_assigned_posts: Total expected rows (approximate): 0
+0002.682 (0) Table wp_glsr_assigned_posts: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=929) in 0.01 seconds
+0002.693 (0) Table wp_glsr_assigned_posts: finishing file(s) (2, 0.4 KB)
+0002.702 (0) Table wp_glsr_assigned_terms: Total expected rows (approximate): 284
+0002.710 (0) Table wp_glsr_assigned_terms: Rows added in this batch (next record: 1000): 284 (uncompressed bytes in this segment=3838) in 0.01 seconds
+0002.718 (0) Table wp_glsr_assigned_terms: finishing file(s) (2, 1 KB)
+0002.725 (0) Table wp_glsr_assigned_users: Total expected rows (approximate): 0
+0002.730 (0) Table wp_glsr_assigned_users: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=879) in 0.01 seconds
+0002.737 (0) Table wp_glsr_assigned_users: finishing file(s) (2, 0.4 KB)
+0002.745 (0) Table wp_glsr_ratings: Total expected rows (via COUNT): 142
+0002.748 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.757 (0) Table wp_glsr_ratings: Rows added in this batch (next record: 142): 142 (uncompressed bytes in this segment=18685) in 0.02 seconds
+0002.766 (0) Table wp_glsr_ratings: finishing file(s) (2, 2.5 KB)
+0002.775 (0) Table wp_grp_google_place: Total expected rows (via COUNT): 0
+0002.781 (0) Table wp_grp_google_place: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1031) in 0.01 seconds
+0002.789 (0) Table wp_grp_google_place: finishing file(s) (2, 0.4 KB)
+0002.811 (0) Table wp_grp_google_review: Total expected rows (via COUNT): 0
+0002.816 (0) Table wp_grp_google_review: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1087) in 0.02 seconds
+0002.827 (0) Table wp_grp_google_review: finishing file(s) (2, 0.4 KB)
+0002.840 (0) Table wp_layerslider: Total expected rows (via COUNT): 0
+0002.843 (0) Table wp_layerslider: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=941) in 0.01 seconds
+0002.852 (0) Table wp_layerslider: finishing file(s) (2, 0.4 KB)
+0002.863 (0) Table wp_layerslider_revisions: Total expected rows (via COUNT): 0
+0002.867 (0) Table wp_layerslider_revisions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=631) in 0.01 seconds
+0002.874 (0) Table wp_layerslider_revisions: finishing file(s) (2, 0.4 KB)
+0002.883 (0) Table wp_oses_attachments: Total expected rows (via COUNT): 0
+0002.886 (0) Table wp_oses_attachments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=582) in 0.01 seconds
+0002.894 (0) Table wp_oses_attachments: finishing file(s) (2, 0.3 KB)
+0002.915 (0) Table wp_oses_clicks: Total expected rows (via COUNT): 0
+0002.919 (0) Table wp_oses_clicks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=720) in 0.01 seconds
+0002.929 (0) Table wp_oses_clicks: finishing file(s) (2, 0.4 KB)
+0002.936 (0) Table wp_oses_email_attachments: Total expected rows (approximate): 0
+0002.941 (0) Table wp_oses_email_attachments: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0002.951 (0) Table wp_oses_email_attachments: finishing file(s) (2, 0.3 KB)
+0002.967 (0) Table wp_oses_emails: Total expected rows (via COUNT): 15
+0002.970 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.975 (0) Table wp_oses_emails: Rows added in this batch (next record: 133): 15 (uncompressed bytes in this segment=12301) in 0.02 seconds
+0002.986 (0) Table wp_oses_emails: finishing file(s) (2, 3.6 KB)
+0003.002 (0) Table wp_oses_failures: Total expected rows (via COUNT): 0
+0003.007 (0) Table wp_oses_failures: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=561) in 0.01 seconds
+0003.018 (0) Table wp_oses_failures: finishing file(s) (2, 0.3 KB)
+0003.030 (0) Table wp_oses_jobs: Total expected rows (via COUNT): 0
+0003.034 (0) Table wp_oses_jobs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=706) in 0.01 seconds
+0003.045 (0) Table wp_oses_jobs: finishing file(s) (2, 0.4 KB)
+0003.066 (0) Table wp_revslider_css: Total expected rows (via COUNT): 109
+0003.069 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.083 (0) Table wp_revslider_css: Rows added in this batch (next record: 109): 109 (uncompressed bytes in this segment=91547) in 0.03 seconds
+0003.097 (0) Table wp_revslider_css: finishing file(s) (2, 4.9 KB)
+0003.108 (0) Table wp_revslider_layer_animations: Total expected rows (via COUNT): 0
+0003.115 (0) Table wp_revslider_layer_animations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=538) in 0.01 seconds
+0003.122 (0) Table wp_revslider_layer_animations: finishing file(s) (2, 0.3 KB)
+0003.139 (0) Table wp_revslider_navigations: Total expected rows (via COUNT): 0
+0003.143 (0) Table wp_revslider_navigations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=583) in 0.01 seconds
+0003.153 (0) Table wp_revslider_navigations: finishing file(s) (2, 0.3 KB)
+0003.171 (0) Table wp_revslider_sliders: Total expected rows (via COUNT): 1
+0003.174 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.180 (0) Table wp_revslider_sliders: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=12271) in 0.02 seconds
+0003.190 (0) Table wp_revslider_sliders: finishing file(s) (2, 3.2 KB)
+0003.211 (0) Table wp_revslider_slides: Total expected rows (via COUNT): 1
+0003.214 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.228 (0) Table wp_revslider_slides: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=62588) in 0.03 seconds
+0003.244 (0) Table wp_revslider_slides: finishing file(s) (2, 6.2 KB)
+0003.258 (0) Table wp_revslider_static_slides: Total expected rows (via COUNT): 0
+0003.262 (0) Table wp_revslider_static_slides: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=568) in 0.01 seconds
+0003.270 (0) Table wp_revslider_static_slides: finishing file(s) (2, 0.3 KB)
+0003.280 (0) Table wp_wpmailsmtp_debug_events: Total expected rows (via COUNT): 0
+0003.284 (0) Table wp_wpmailsmtp_debug_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=707) in 0.01 seconds
+0003.293 (0) Table wp_wpmailsmtp_debug_events: finishing file(s) (2, 0.4 KB)
+0003.306 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 3
+0003.309 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.313 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=926) in 0.01 seconds
+0003.322 (0) Table wp_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.5 KB)
+0003.330 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_options.table.tmpr2346265.gz (1/44/fopen): adding to final database dump
+0003.335 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_options.table.gz (2/44/fopen): adding to final database dump
+0003.338 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_users.table.tmpr5.gz (3/44/fopen): adding to final database dump
+0003.341 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_users.table.gz (4/44/fopen): adding to final database dump
+0003.342 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_usermeta.table.tmpr98.gz (5/44/fopen): adding to final database dump
+0003.345 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_usermeta.table.gz (6/44/fopen): adding to final database dump
+0003.346 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_actionscheduler_actions.table.tmpr5.gz (7/44/fopen): adding to final database dump
+0003.349 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_actionscheduler_actions.table.gz (8/44/fopen): adding to final database dump
+0003.350 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/44/fopen): adding to final database dump
+0003.353 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_actionscheduler_claims.table.gz (10/44/fopen): adding to final database dump
+0003.354 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/44/fopen): adding to final database dump
+0003.356 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_actionscheduler_groups.table.gz (12/44/fopen): adding to final database dump
+0003.357 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_actionscheduler_logs.table.tmpr13.gz (13/44/fopen): adding to final database dump
+0003.360 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_actionscheduler_logs.table.gz (14/44/fopen): adding to final database dump
+0003.362 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_commentmeta.table.tmpr0.gz (15/44/fopen): adding to final database dump
+0003.364 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_commentmeta.table.gz (16/44/fopen): adding to final database dump
+0003.366 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_comments.table.tmpr0.gz (17/44/fopen): adding to final database dump
+0003.368 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_comments.table.gz (18/44/fopen): adding to final database dump
+0003.370 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_links.table.tmpr0.gz (19/44/fopen): adding to final database dump
+0003.372 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_links.table.gz (20/44/fopen): adding to final database dump
+0003.374 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_postmeta.table.tmpr10548.gz (21/44/fopen): adding to final database dump
+0003.377 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_postmeta.table.gz (22/44/fopen): adding to final database dump
+0003.378 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_posts.table.tmpr2015.gz (23/44/fopen): adding to final database dump
+0003.392 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_posts.table.gz (24/44/fopen): adding to final database dump
+0003.399 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_term_relationships.table.tmpr100001.gz (25/44/fopen): adding to final database dump
+0003.402 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_term_relationships.table.gz (26/44/fopen): adding to final database dump
+0003.405 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_term_taxonomy.table.tmpr9.gz (27/44/fopen): adding to final database dump
+0003.406 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_term_taxonomy.table.gz (28/44/fopen): adding to final database dump
+0003.409 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_termmeta.table.tmpr31.gz (29/44/fopen): adding to final database dump
+0003.411 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_termmeta.table.gz (30/44/fopen): adding to final database dump
+0003.413 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_terms.table.tmpr9.gz (31/44/fopen): adding to final database dump
+0003.414 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_terms.table.gz (32/44/fopen): adding to final database dump
+0003.417 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_yoast_seo_links.table.tmpr2224.gz (33/44/fopen): adding to final database dump
+0003.418 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_yoast_seo_links.table.gz (34/44/fopen): adding to final database dump
+0003.421 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_yoast_seo_meta.table.tmpr2016.gz (35/44/fopen): adding to final database dump
+0003.422 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_yoast_seo_meta.table.gz (36/44/fopen): adding to final database dump
+0003.425 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_blc_filters.table.tmpr0.gz (37/44/fopen): adding to final database dump
+0003.426 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_blc_filters.table.gz (38/44/fopen): adding to final database dump
+0003.429 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_blc_instances.table.tmpr89.gz (39/44/fopen): adding to final database dump
+0003.430 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_blc_instances.table.gz (40/44/fopen): adding to final database dump
+0003.433 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_blc_links.table.tmpr19.gz (41/44/fopen): adding to final database dump
+0003.434 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_blc_links.table.gz (42/44/fopen): adding to final database dump
+0003.437 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_blc_synch.table.tmpr1001.gz (43/44/fopen): adding to final database dump
+0003.438 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_blc_synch.table.gz (44/44/fopen): adding to final database dump
+0003.440 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_glsr_assigned_posts.table.tmpr1.gz (45/44/fopen): adding to final database dump
+0003.442 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_glsr_assigned_posts.table.gz (46/44/fopen): adding to final database dump
+0003.444 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_glsr_assigned_terms.table.tmpr1001.gz (47/44/fopen): adding to final database dump
+0003.445 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_glsr_assigned_terms.table.gz (48/44/fopen): adding to final database dump
+0003.448 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_glsr_assigned_users.table.tmpr1.gz (49/44/fopen): adding to final database dump
+0003.449 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_glsr_assigned_users.table.gz (50/44/fopen): adding to final database dump
+0003.450 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_glsr_ratings.table.tmpr143.gz (51/44/fopen): adding to final database dump
+0003.453 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_glsr_ratings.table.gz (52/44/fopen): adding to final database dump
+0003.454 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_grp_google_place.table.tmpr0.gz (53/44/fopen): adding to final database dump
+0003.457 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_grp_google_place.table.gz (54/44/fopen): adding to final database dump
+0003.458 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_grp_google_review.table.tmpr0.gz (55/44/fopen): adding to final database dump
+0003.461 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_grp_google_review.table.gz (56/44/fopen): adding to final database dump
+0003.462 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_layerslider.table.tmpr0.gz (57/44/fopen): adding to final database dump
+0003.464 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_layerslider.table.gz (58/44/fopen): adding to final database dump
+0003.465 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_layerslider_revisions.table.tmpr0.gz (59/44/fopen): adding to final database dump
+0003.468 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_layerslider_revisions.table.gz (60/44/fopen): adding to final database dump
+0003.469 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_attachments.table.tmpr0.gz (61/44/fopen): adding to final database dump
+0003.472 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_attachments.table.gz (62/44/fopen): adding to final database dump
+0003.473 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_clicks.table.tmpr0.gz (63/44/fopen): adding to final database dump
+0003.476 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_clicks.table.gz (64/44/fopen): adding to final database dump
+0003.478 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_email_attachments.table.tmpr1.gz (65/44/fopen): adding to final database dump
+0003.480 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_email_attachments.table.gz (66/44/fopen): adding to final database dump
+0003.481 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_emails.table.tmpr134.gz (67/44/fopen): adding to final database dump
+0003.484 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_emails.table.gz (68/44/fopen): adding to final database dump
+0003.485 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_failures.table.tmpr0.gz (69/44/fopen): adding to final database dump
+0003.488 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_failures.table.gz (70/44/fopen): adding to final database dump
+0003.489 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_jobs.table.tmpr0.gz (71/44/fopen): adding to final database dump
+0003.492 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_oses_jobs.table.gz (72/44/fopen): adding to final database dump
+0003.493 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_css.table.tmpr110.gz (73/44/fopen): adding to final database dump
+0003.495 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_css.table.gz (74/44/fopen): adding to final database dump
+0003.498 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_layer_animations.table.tmpr0.gz (75/44/fopen): adding to final database dump
+0003.501 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_layer_animations.table.gz (76/44/fopen): adding to final database dump
+0003.502 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_navigations.table.tmpr0.gz (77/44/fopen): adding to final database dump
+0003.505 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_navigations.table.gz (78/44/fopen): adding to final database dump
+0003.506 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_sliders.table.tmpr2.gz (79/44/fopen): adding to final database dump
+0003.509 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_sliders.table.gz (80/44/fopen): adding to final database dump
+0003.511 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_slides.table.tmpr2.gz (81/44/fopen): adding to final database dump
+0003.514 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_slides.table.gz (82/44/fopen): adding to final database dump
+0003.517 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_static_slides.table.tmpr0.gz (83/44/fopen): adding to final database dump
+0003.518 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_revslider_static_slides.table.gz (84/44/fopen): adding to final database dump
+0003.521 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_wpmailsmtp_debug_events.table.tmpr0.gz (85/44/fopen): adding to final database dump
+0003.522 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_wpmailsmtp_debug_events.table.gz (86/44/fopen): adding to final database dump
+0003.525 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_wpmailsmtp_tasks_meta.table.tmpr4.gz (87/44/fopen): adding to final database dump
+0003.526 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db-table-wp_wpmailsmtp_tasks_meta.table.gz (88/44/fopen): adding to final database dump
+0003.569 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db.gz: finished writing out complete database file (1043 KB)
+0003.595 (0) Total database tables backed up: 44 (backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db.gz, size: 1068140, sha1: da5cb2fb3bceace833be6fa592cd6dc509128148, sha256: 77ba667bf39be90a7b52dd9615087b775dc7e3cbae05aa4004975344df472298)
+0003.760 (0) backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db.gz: db: This file has not yet been successfully uploaded: will queue
+0003.763 (0) Saving backup history. Total backup size: 1 MB
+0003.830 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0003.838 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0003.841 (0) No remote despatch: user chose no remote backup service
+0003.844 (0) Recording as successfully uploaded: backup_2022-08-14-0949_5th_amp_Olive_Dental_54d02a777117-db.gz
+0003.849 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0003.852 (0) Resume backup (54d02a777117, 0): finish run
+0003.860 (0) Decremented the semaphore (fd) by 1
+0003.864 (0) Semaphore (fd) unlocked
+0003.866 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0003.881 (0) No email will/can be sent - the user has not configured an email address.
+0003.885 (0) The backup apparently succeeded and is now complete
